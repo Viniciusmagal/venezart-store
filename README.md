@@ -195,33 +195,33 @@ VenezArt/
 Pré-requisitos: Node.js e Python instalados.
 
 1️⃣ Configurando o Backend (Servidor)
-# Entre na pasta do backend
+Entre na pasta do backend
 cd backend
 
-# Crie o ambiente virtual
+Crie o ambiente virtual
 python -m venv venv
 
-# Ative o ambiente virtual
-# Windows:
+Ative o ambiente virtual
+Windows:
 venv\Scripts\activate
-# Linux/Mac:
+Linux/Mac:
 source venv/bin/activate
 
-# Instale as dependências
+Instale as dependências
 pip install -r requirements.txt
 
-# Execute a aplicação
+Execute a aplicação
 python app.py
 O servidor iniciará em http://localhost:5000
 
 2️⃣ Configurando o Frontend (Cliente)
-# Em um novo terminal, entre na pasta do frontend
+Em um novo terminal, entre na pasta do frontend
 cd frontend
 
-# Instale as dependências do Node
+Instale as dependências do Node
 npm install
 
-# Inicie o projeto
+Inicie o projeto
 npm run dev
 A aplicação estará disponível em http://localhost:5173
 
