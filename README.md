@@ -44,7 +44,6 @@ O projeto foi desenvolvido como parte do **Projeto Semestral do curso de Anális
 ## 🛠 Tecnologias
 🛠 Tecnologias Utilizadas no Projeto
 
-🛠 Tecnologias Utilizadas no Projeto
 
 Este projeto foi desenvolvido integrando três pilares principais: Frontend com React + Vite, Backend com Python e Flask, e Banco de Dados SQLite.
 A seguir, apresentamos um resumo organizado das ferramentas utilizadas e seus papéis dentro da aplicação.
