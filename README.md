@@ -23,13 +23,6 @@ O projeto foi desenvolvido como parte do **Projeto Semestral do curso de Anális
 
 ---
 
-## 📸 Screenshots
-
-| Home | Carrinho |
-|:---:|:---:|
-| ![Home](https://via.placeholder.com/400x200?text=Home+VenezArt) | ![Carrinho](https://via.placeholder.com/400x200?text=Carrinho) |
-
----
 
 ## 🚀 Funcionalidades
 
