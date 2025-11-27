@@ -171,7 +171,6 @@ PedidoItem — itens dentro de cada pedido
 
 Favorite — produtos favoritados
 
-Esses modelos representam as tabelas do banco e permitem executar operações de forma prática e segura.
 ---
 
 ## 📂 Estrutura do Projeto
