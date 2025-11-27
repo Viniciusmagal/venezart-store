@@ -176,4 +176,4 @@ npm install
 
 # Inicie o projeto
 npm run dev
-A aplicação estará disponível em http://localhost:5173👨‍💻 AutoresProjeto desenvolvido com 💜 por estudantes do IFSP.<img src="https://github.com/GeisieleOliveira.png" width="100px;"/><br /><sub><b>Geisiele Oliveira</b></sub><img src="https://github.com/Thiagolvc.png" width="100px;"/><br /><sub><b>Thiago Oliveira</b></sub><img src="https://github.com/Viniciusmagal.png" width="100px;"/><br /><sub><b>Vinícius Magalhães</b></sub>
+A aplicação estará disponível em http://localhost:5173
