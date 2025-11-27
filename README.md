@@ -135,6 +135,16 @@ Projeto desenvolvido com 💜 por estudantes do IFSP.
         <img src="https://img.shields.io/badge/GitHub-Thiagolvc-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
+     <tr>
+    <td align="center" style="padding: 15px;">
+      <img src="https://avatars.githubusercontent.com/Thiagolvc" width="80" style="border-radius: 50%;"/><br>
+      <b>Thiago</b><br>
+      <a href=https://github.com/vinolass" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-vinolass-black?style=for-the-badge&logo=github"/>
+      </a>
+            <b>Vinicius Arantes</b><br>
+
+    </td>
 
  
 </table>
