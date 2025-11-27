@@ -254,10 +254,11 @@ Projeto desenvolvido com 💜 por estudantes do IFSP.
         <img src="https://img.shields.io/badge/GitHub-vinolass-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
-     <td align="center" width="200px">
-      <img src="https://photos.fife.usercontent.google.com/pw/AP1GczMwV8yYD8wMQo-MY7Q81XyjhcrLuCayAb4H89Bwry8DDKC-tih8FTv6Ug=w880-h884-s-no-gm?authuser=0" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <b>Vinícius Magalhães</b><br>
-      <a href="https://github.com/Viniciusmagal" target="_blank">
+   <td align="center" width="200px">
+      <img src="https://avatars.githubusercontent.com/vinolass" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
+      <b>Vinicius Magalhães</b><br>
+      <a href="https://github.com/vinolass" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-vinolass-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
