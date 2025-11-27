@@ -41,7 +41,6 @@ O projeto foi desenvolvido como parte do **Projeto Semestral do curso de Anális
 
 ---
 
-## 🛠 Tecnologias
 ## 🛠 Tecnologias Utilizadas no Projeto
 
 ---
