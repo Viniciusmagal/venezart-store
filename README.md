@@ -68,4 +68,18 @@ Este projeto foi concebido como parte do **Projeto Semestral do curso de Anális
 - **Gerenciador de Pacotes:** PIP & NPM
 
 ---
+## 📂 Estrutura do Projeto
 
+```bash
+VenezArt/
+├── backend/
+│   ├── app.py             # Ponto de entrada da API
+│   ├── models/            # Modelos do Banco de Dados
+│   ├── routes/            # Rotas da API
+│   └── services/          # Lógica de geração de arquivos
+├── frontend/
+│   ├── src/
+│   │   ├── components/    # Componentes Reutilizáveis
+│   │   ├── pages/         # Páginas da Aplicação
+│   │   └── services/      # Integração com API (Axios/Fetch)
+└── README.md
