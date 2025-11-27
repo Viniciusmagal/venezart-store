@@ -137,17 +137,17 @@ Projeto desenvolvido com 💜 por estudantes do IFSP.
       </a>
     </td>
     <td align="center" width="200px">
-      <img src="https://avatars.githubusercontent.com/u/114201114?v=4" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <b>Vinícius Magalhães</b><br>
-      <a href="https://github.com/Viniciusmagal" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Viniciusmagal-black?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td align="center" width="200px">
       <img src="https://avatars.githubusercontent.com/vinolass" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
       <b>Vinicius Arantes</b><br>
       <a href="https://github.com/vinolass" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-vinolass-black?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+     <td align="center" width="200px">
+      <img src="https://avatars.githubusercontent.com/u/114201114?v=4" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
+      <b>Vinícius Magalhães</b><br>
+      <a href="https://github.com/Viniciusmagal" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Viniciusmagal-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
