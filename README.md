@@ -110,3 +110,37 @@ npm install
 
 # Inicie o projeto
 npm run dev
+A aplicação estará disponível em http://localhost:5173
+
+##👨‍💻 Autores
+Projeto desenvolvido com 💜 por estudantes do IFSP.
+<table>
+  <tr>
+    <td align="center">
+      <b>Vinícius Magalhães</b><br>
+      <a href="https://github.com/Viniciusmagal" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Geisiele Oliveira</b><br>
+      <a href="https://github.com/GeisieleOliveira" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Thiago</b><br>
+      <a href="https://github.com/Thiagolvc" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Vinolass</b><br>
+      <a href="https://github.com/vinolass" target="_blank">
+        <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
