@@ -124,13 +124,7 @@ Projeto desenvolvido com 💜 por estudantes do IFSP.
       </a>
     </td>
 
-    <td align="center" style="padding: 15px;">
-      <img src="https://avatars.githubusercontent.com/GeisieleOliveira" width="80" style="border-radius: 50%;"/><br>
-      <b>Geisiele Oliveira</b><br>
-      <a href="https://github.com/GeisieleOliveira" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-GeisieleOliveira-black?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
+   
   </tr>
 
   <tr>
@@ -142,12 +136,5 @@ Projeto desenvolvido com 💜 por estudantes do IFSP.
       </a>
     </td>
 
-    <td align="center" style="padding: 15px;">
-      <img src="https://avatars.githubusercontent.com/vinolass" width="80" style="border-radius: 50%;"/><br>
-      <b>Vinolass</b><br>
-      <a href="https://github.com/vinolass" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-vinolass-black?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
+ 
 </table>
