@@ -237,7 +237,7 @@ Projeto desenvolvido com 💜 por estudantes do IFSP.
       <img src="https://avatars.githubusercontent.com/u/155771396?v=4" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
       <b>Geisiele Oliveira</b><br>
       <a href="https://github.com/GeisieleOliveira" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Thiagolvc-black?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/GitHub-GeisieleOliveira-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
      <td align="center" width="200px">
