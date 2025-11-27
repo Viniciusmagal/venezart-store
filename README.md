@@ -225,7 +225,7 @@ Inicie o projeto
 npm run dev
 A aplicação estará disponível em http://localhost:5173
 
-
+---
 
 ## 👨‍💻 Autores
 
