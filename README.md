@@ -122,18 +122,18 @@ Projeto desenvolvido com 💜 por estudantes do IFSP.
 
 <table align="center">
   <tr>
+     <td align="center" width="200px">
+      <img src="https://avatars.githubusercontent.com/Thiagolvc" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
+      <b>Thiago</b><br>
+      <a href="https://github.com/Thiagolvc" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Thiagolvc-black?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
     <td align="center" width="200px">
       <img src="https://avatars.githubusercontent.com/u/114201114?v=4" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
       <b>Vinícius Magalhães</b><br>
       <a href="https://github.com/Viniciusmagal" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-Viniciusmagal-black?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td align="center" width="200px">
-      <img src="https://avatars.githubusercontent.com/Thiagolvc" width="100" height="100" style="border-radius:50%; object-fit:cover;"/><br>
-      <b>Thiago</b><br>
-      <a href="https://github.com/Thiagolvc" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Thiagolvc-black?style=for-the-badge&logo=github"/>
       </a>
     </td>
     <td align="center" width="200px">
